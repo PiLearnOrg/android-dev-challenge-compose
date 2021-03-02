@@ -1,3 +1,7 @@
+# Puppy Art Adoption
+
+A jetpack compose app to adopt puppy art. 
+
 # Template repository
 
 Template repository for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
